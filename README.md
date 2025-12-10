@@ -242,8 +242,9 @@ text
 
 ---
 
-## 📚 Documentation
+### 📚 Documentation
 
+- **Presentation (PowerPoint):** [HDFC-Bank-Digital-KYC-Dashboard.pptx](HDFC-Bank-Digital-KYC-Dashboard.pptx)
 - **Full Case Study:** [docs/Digital-KYC-Case-Study.md](docs/Digital-KYC-Case-Study.md)
 - **Presentation Outline:** [docs/Digital-KYC-Presentation.md](docs/Digital-KYC-Presentation.md)
 - **Executive Summary:** [docs/Digital-KYC-Summary.md](docs/Digital-KYC-Summary.md)
